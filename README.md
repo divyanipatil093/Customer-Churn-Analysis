@@ -94,7 +94,7 @@ Customers without the following services are more likely to churn:
 ## 🚀 How to Run This Project
 
 ```bash
-git clone https://github.com/your-username/customer-churn-eda-python.git
+git clone https://github.com/divyanipatil093/customer-churn-eda-python.git
 cd customer-churn-eda-python
 pip install -r requirements.txt
 jupyter notebook
